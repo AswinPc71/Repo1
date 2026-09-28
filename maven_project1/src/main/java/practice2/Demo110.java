@@ -1,3 +1,18 @@
+/*BankAccount
+├──
+SavingsAccount
+└── CurrentAccount
+BankAccount should contain:
+•	private account number
+•	private balance
+•	constructor
+•	deposit()
+•	withdraw()
+•	abstract calculateInterest()
+Implement different interest
+calculations in the child classes.*/
+
+
 package practice2;
 
 public class Demo110 {
