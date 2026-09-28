@@ -13,7 +13,7 @@ public class Throws {
 
 		public static void main(String[] args) {
 			
-			Throw th = new Throw();
+			Throws th = new Throws();
 			
 			try {
 				th.checkAge(17);
