@@ -56,9 +56,9 @@ public class RadioButtonHandling extends Base {
 		RadioButtonHandling radioButton = new RadioButtonHandling();
 		radioButton.browserInitialization();
 		radioButton.radioButtons();
-		radioButton.radioButtons2();
+		//radioButton.radioButtons2();
 		radioButton.radioButtons3();
-		radioButton.radioButtons4();
+		//radioButton.radioButtons4();
 		
 		
 
